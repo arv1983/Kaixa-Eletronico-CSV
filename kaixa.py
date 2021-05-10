@@ -56,7 +56,7 @@ def all_transactions(filename):
 # transactions = all_transactions('Python E3 - Kaixa eletrônico/transactions.json')
 # print(transactions)
 
-post_transaction('Python E3 - Kaixa eletrônico/transactions.json', 'gastei com222', 'outcome', 1000)
+# post_transaction('Python E3 - Kaixa eletrônico/transactions.json', 'gastei com222', 'outcome', 1000)
 # saldo = calculate_balance('Python E3 - Kaixa eletrônico/transactions.json')
 # print(saldo)
 
